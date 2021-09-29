@@ -8,7 +8,6 @@ O objetivo geral deste trabalho é a criação de um aplicativo para realizar me
 * Enzo Souto Vieira Soares
 * Rafael Marques Radieddine
 * Lucas Abreu Lopes
-* Nome completo do aluno 4
 
 ## Professores responsáveis
 
