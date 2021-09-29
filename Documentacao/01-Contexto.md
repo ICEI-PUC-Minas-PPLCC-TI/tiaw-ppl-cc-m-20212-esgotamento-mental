@@ -20,5 +20,6 @@ Permitir a criação de um gerenciador pessoal avisando com antecedência sobre 
 Hoje em dia é fato que a vida da maioria está em uma correria contínua, a partir do momento que é iniciado seu trabalho/estudos até onde você vai chegar em casa, realizar as tarefas domésticas e se relacionar com a família e até mesmo quando deita para dormir, já está com a cabeça pensando no outro dia e o que se deve realizar. 
 
 Tendo uma forma de realizar uma integração para tornar o dia mais leve e sempre programando o próximo dia ou até mesmo uma semana, fica mais fácil de obter uma saúde mental o que faz ser muito mais produtivo e bem consigo mesmo. 
-Público alvo
+
+## Público alvo
 Embora a pesquisa sobre transtornos mentais presentes nos brasileiros aponta que 86% destes possuem algum transtorno mental, como ansiedade e depressão, esse projeto é destinado para todos aqueles que sentem que precisam de uma ajuda mas às vezes não têm tempo até mesmo para procurar uma ajuda para cuidar da sua saúde mental ou possui tantas preocupações externas que acaba esquecendo de si mesmo. O projeto tem como destino todos aqueles que possuem ou vem a possuir uma saúde mental abalada. 
