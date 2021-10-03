@@ -11,4 +11,6 @@ Liste os artefatos produzidos, com suas localizações e descrição do conteúd
 * `Mapas de Empatia`
 	* **0X-MapaEmpatiaX**: Mapas de empatia das personas cujos números e nomes são os mesmos antes e depois, respectivamente, do nome dos arquivos.
 
-Assim, sucessivamente para outros artefatos como `processos` e `DER`, etc.
+
+* `Wireframes`
+	* **1X-TelaX**: Telas propostas para o aplicativo criadas como "Wireframes".
