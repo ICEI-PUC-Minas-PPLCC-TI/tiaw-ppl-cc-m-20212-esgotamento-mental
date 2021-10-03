@@ -15,5 +15,8 @@ Liste os artefatos produzidos, com suas localizações e descrição do conteúd
 * `Wireframes`
 	* **1X-TelaX**: Telas propostas para o aplicativo criadas como "Wireframes".
 
-* `Fluxo do usuário`
+* `Fluxo do usuário (Diagrama em Imagem)`
 	* **20-FluxoDoUsuário**: Fluxo organizado das telas propostas para o aplicativo criadas como "Wireframes".
+
+* `Fluxo do usuário (Protótipo interativo)`
+	* **FluxoDoUsuário.md**: Fluxo interativo feito no figma das telas propostas para o aplicativo.
