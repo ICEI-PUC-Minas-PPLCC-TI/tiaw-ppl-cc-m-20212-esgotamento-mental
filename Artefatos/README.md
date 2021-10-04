@@ -1,8 +1,5 @@
 # Artefatos do projeto
 
-Este diretório mantém os artefatos do projeto. 
-
-
 Lista dos artefatos produzidos, com suas localizações e descrições de conteúdo:
 
 * `Personas`
