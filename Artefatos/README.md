@@ -11,10 +11,10 @@ Lista dos artefatos produzidos, com suas localizações e descrições de conte�
 * `Brainwriting`
 	* **07.X-Brainwrting**: Ideias utilizando o template do Brainwriting dispostas em ordem, organizadas pelos números que sucedem os dígitos ordenadores "07";
 
-* `Brainwriting`
+* `Mural de Possibilidades`
 	* **08-MuralDePossiblidades**: Ideias que foram dadas para a solução do problema proposto (Esgotamento Mental) e seleção das melhores delas nos quadros inferiores;
 
-* `Brainwriting`
+* `Mural de Priorização`
 	* **09.MuralDePriorização**: Mural de organização das funcionalidades da solução dispostas num gráfico de dificuldade por importância (Ideias mais relevantes ficam à direita e mais difíceis em cima);
 
 * `Wireframes`
