@@ -10,6 +10,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 | RF-03 | O app deve dar dicas com base nas diferenças entre a agenda e o diário | Média |
 | RF-04 | O app deve fornecer métricas com base nas diferenças entre a agenda e o diário | Média |
 | RF-05 | O app deve ter um sistema de pontos para usuários que conseguem cumprir a agenda | Baixa |
+| RF-05 | O app deve ter um sistema de compartilhação de agendas entre usuários, agindo como uma rede social | Baixa |
 
 ## Requisitos não funcionais
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
