@@ -27,6 +27,6 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 | ID | Descrição |
 |-|-|
-| RE-01 | O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 07/07/2020 |
+| RE-01 | O projeto deverá ser entregue no final do semestre letivo |
 | RE-02 | O aplicativo deve se restringir às tecnologias básicas da Web no Frontend |
 | RE-03 | A equipe não pode subcontratar o desenvolvimento do trabalho |
