@@ -14,5 +14,5 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 |-|-|
 | Requisitos Associados | RF-1 RF-3 |
 | Objetivo do Teste | Verificar se o calendário está abrindo corretamente |
-| RF-03 | 1) Acessar o Navegador 2) Informar o endereço do Site 3) Realizar Login no site 4) Ir até o a página de calendário |
-| Critérios de Êxito | * O calendário deve estar preenchido de acordo com o login * O calendário deve ser funcional e responder aos comandos de adicionar novas tarefas ou apagar antigas |
+| RF-03 | 1) Acessar o Navegador <br> 2) Informar o endereço do Site <br> 3) Realizar Login no site <br> 4) Ir até o a página de calendário |
+| Critérios de Êxito | * O calendário deve estar preenchido de acordo com o login <br> * O calendário deve ser funcional e responder aos comandos de adicionar novas tarefas ou apagar antigas |
