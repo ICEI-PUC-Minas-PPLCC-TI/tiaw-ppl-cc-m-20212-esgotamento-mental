@@ -5,12 +5,10 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 | ID | Descrição | Prioridade |
 |-|-|-|
-| RF-01 | O app deve ter uma agenda  | Alta |
+| RF-01 | O app deve ter um calendário  | Alta |
 | RF-02 | O app deve ter um diário | Alta |
-| RF-03 | O app deve dar dicas com base nas diferenças entre a agenda e o diário | Média |
-| RF-04 | O app deve fornecer métricas com base nas diferenças entre a agenda e o diário | Média |
-| RF-05 | O app deve ter um sistema de pontos para usuários que conseguem cumprir a agenda | Baixa |
-| RF-05 | O app deve ter um sistema de compartilhação de agendas entre usuários, agindo como uma espécie de rede social | Baixa |
+| RF-03 | O app deve possuir um sistema de Login | Média |
+| RF-04 | O app deve possuir um sistema de Perfil | Baixa |
 
 ## Requisitos não funcionais
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
