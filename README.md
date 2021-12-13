@@ -29,6 +29,6 @@ O objetivo geral deste trabalho é a criação de um aplicativo para realizar me
 
 * [Requisitos](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/blob/master/Documentacao/02-Especificação.md#requisitos-do-projeto)
 * [Restrições](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/blob/master/Documentacao/02-Especificação.md#restrições)
-* [Projeto de interface](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/blob/master/Artefatos/21-FluxoDoUsuário.jpg)/[wireframe](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/tree/master/Artefatos)/[protótipo](https://www.figma.com/proto/8ktFPQJPgsr47I4a3kVz9b/Wireframing-in-Figma?node-id=0%3A1&scaling=contain&starting-point-node-id=0%3A817)
+* [Projeto de interface](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/blob/master/Artefatos/21-FluxoDoUsuário.jpg)/[wireframe (1X-TelaX)](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/tree/master/Artefatos)/[protótipo](https://www.figma.com/proto/8ktFPQJPgsr47I4a3kVz9b/Wireframing-in-Figma?node-id=0%3A1&scaling=contain&starting-point-node-id=0%3A817)
 * [Arquitetura](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/tree/master/Codigo)
 * [Tecnologias](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/tree/master/Codigo)
