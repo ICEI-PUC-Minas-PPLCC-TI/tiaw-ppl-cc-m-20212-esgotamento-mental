@@ -19,7 +19,7 @@ O objetivo geral deste trabalho é a criação de um aplicativo para realizar me
 
 Acesse o site pelo link [https://tiaw-gt-main-screen-template.lucasablopes.repl.co](https://tiaw-gt-main-screen-template.lucasablopes.repl.co), e então cadastre-se ou faça login. Logo após, ao clicar em seu usuário na direita superior, poderá aproveitar as funcionalidades de cadastro de atividades, como em um diário, para fazer a retrospectiva do dia de maneira cautelosa e conseguir realmente descobrir o que causa o esgotamento mental em seu dia. Ademais, poderá acessar um calendário para marcar tarefas e montar seus cronogramas.
 
-## Critérios
+## Critérios de Avaliação
 
 ### Contexto
 
