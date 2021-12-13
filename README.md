@@ -50,7 +50,7 @@ Acesse o site pelo link [https://tiaw-gt-main-screen-template.lucasablopes.repl.
 ### Testes de Software e Testes de Usabilidade
 
 * [Testes de Software](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/blob/master/Documentacao/03-TestesDeSoftware.md)
-* [Testes de Usabilidade]()
+* [Testes de Usabilidade](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/blob/master/Documentacao/04-TestesDeUsabilidade.md)
 
 ### Qualidade do texto
 
