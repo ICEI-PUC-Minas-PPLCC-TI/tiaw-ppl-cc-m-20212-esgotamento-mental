@@ -51,3 +51,5 @@ Acesse o site pelo link [https://tiaw-gt-main-screen-template.lucasablopes.repl.
 
 * [Testes de Software]()
 * [Testes de Usabilidade]()
+
+### Qualidade do texto
