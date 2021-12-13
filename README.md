@@ -40,7 +40,7 @@ Acesse o site pelo link [https://tiaw-gt-main-screen-template.lucasablopes.repl.
 ### Metodologia de Trabalho
 
 * Processo: Divisão de tarefas entre integrantes por períodos de tempo determinados chamados "Sprints"
-* Atribuições: Enzo Souto: ; Lucas Abreu: Funcionalidade de diário, Wireframes, Artefatos, Protótipo e formatação no GitHub;  Rafael Radieddine: Funcionalidades de login e cadastro, pesquisa qualitativa, Mapa de Stakeholders
+* Atribuições: Enzo Souto: Funcionalidades de calendário e agenda, pesquisa quantitativa, Personas; Lucas Abreu: Funcionalidade de diário, Wireframes, Artefatos, Protótipo e formatação no GitHub;  Rafael Radieddine: Funcionalidades de login e cadastro, pesquisa qualitativa, Mapa de Stakeholders
 * Ferramentas: Replit; Linguagens HTML, CSS e JavaScript; GitHub; Figma, Miro, Google Forms, Slides e Docs; Trello
 
 ### Solução Implementada
