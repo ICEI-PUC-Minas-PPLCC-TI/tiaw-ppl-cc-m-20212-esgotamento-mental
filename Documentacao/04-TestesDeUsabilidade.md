@@ -11,7 +11,7 @@ O planejamento dos testes de usabilidade a serem realizados com usuários são d
 ## Registro de Testes de Usabilidade
 Os resultados obtidos nos testes de usabilidade realizados são descritos na Tabela a seguir.
 
-## Tabela
+### Tabela
 
 | Número de reclamações proporcional | Reclamação |
 |-|-|
