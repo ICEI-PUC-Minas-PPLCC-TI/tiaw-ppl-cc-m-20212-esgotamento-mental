@@ -15,6 +15,14 @@ O objetivo geral deste trabalho é a criação de um aplicativo para realizar me
 * Rommel Vieira Carneiro  
 * Rosilane Ribeiro Da Mota
 
-## Instruções de utilização
+## Critérios
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+### Contexto
+
+* [Problema](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/blob/master/Documentacao/01-Contexto.md#contexto)
+* [Objetivos](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/blob/master/Documentacao/01-Contexto.md#objetivos)
+* [Público-Alvo](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/blob/master/Documentacao/01-Contexto.md#público-alvo)
+* [Justificativa](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/blob/master/Documentacao/01-Contexto.md#justificativa)
+* [Artefatos](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/tree/master/Artefatos)
+
+### Projeto da solução
