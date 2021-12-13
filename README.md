@@ -15,6 +15,10 @@ O objetivo geral deste trabalho é a criação de um aplicativo para realizar me
 * Rommel Vieira Carneiro  
 * Rosilane Ribeiro Da Mota
 
+## Instruções de utilização
+
+Acesse o site pelo link [https://tiaw-gt-main-screen-template.lucasablopes.repl.co](https://tiaw-gt-main-screen-template.lucasablopes.repl.co), e então cadastre-se ou faça login. Logo após, ao clicar em seu usuário na direita superior, poderá aproveitar as funcionalidades de cadastro de atividades, como em um diário, para fazer a retrospectiva do dia de maneira cautelosa e conseguir realmente descobrir o que causa o esgotamento mental em seu dia e, ademais, poderá acessar um calendário para marcar tarefas e montar seus cronogramas.
+
 ## Critérios
 
 ### Contexto
@@ -25,10 +29,25 @@ O objetivo geral deste trabalho é a criação de um aplicativo para realizar me
 * [Justificativa](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/blob/master/Documentacao/01-Contexto.md#justificativa)
 * [Artefatos](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/tree/master/Artefatos)
 
-### Projeto da solução
+### Projeto da Solução
 
 * [Requisitos](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/blob/master/Documentacao/02-Especificação.md#requisitos-do-projeto)
 * [Restrições](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/blob/master/Documentacao/02-Especificação.md#restrições)
 * [Projeto de interface](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/blob/master/Artefatos/21-FluxoDoUsuário.jpg)/[wireframe (1X-TelaX)](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/tree/master/Artefatos)/[protótipo](https://www.figma.com/proto/8ktFPQJPgsr47I4a3kVz9b/Wireframing-in-Figma?node-id=0%3A1&scaling=contain&starting-point-node-id=0%3A817)
 * [Arquitetura](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/tree/master/Codigo)
 * [Tecnologias](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-esgotamento-mental/tree/master/Codigo)
+
+### Metodologia de Trabalho
+
+* Processo: Divisão de tarefas entre integrantes por períodos de tempo determinados chamados "Sprints"
+* Atribuições: Enzo Souto: ; Lucas Abreu: Funcionalidade de diário, Wireframes, Artefatos, Protótipo e formatação no GitHub;  Rafael Radieddine: Funcionalidades de login e cadastro, pesquisa qualitativa, Mapa de Stakeholders
+* Ferramentas: Replit; Linguagens HTML, CSS e JavaScript; GitHub; Figma, Miro, Google Forms, Slides e Docs; Trello
+
+### Solução Implementada
+
+* [GT+](https://tiaw-gt-main-screen-template.lucasablopes.repl.co)
+
+### Testes de Software e Testes de Usabilidade
+
+* [Testes de Software]()
+* [Testes de Usabilidade]()
