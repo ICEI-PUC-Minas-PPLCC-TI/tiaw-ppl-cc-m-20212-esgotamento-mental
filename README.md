@@ -45,7 +45,7 @@ Acesse o site pelo link [https://tiaw-gt-main-screen-template.lucasablopes.repl.
 
 ### Solução Implementada
 
-* [GT+](https://tiaw-gt-main-screen-template.lucasablopes.repl.co)
+* [GT+](https://GT-Final.lucasablopes.repl.co)
 
 ### Testes de Software e Testes de Usabilidade
 
